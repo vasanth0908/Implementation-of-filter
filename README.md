@@ -145,15 +145,24 @@ plt.title('Laplacian Operator')
 
 
 i) Using Averaging Filter
+
+
+
 ![image](https://github.com/vasanth0908/Implementation-of-filter/assets/122000018/89d554cc-1fe6-4d52-b9a8-2d08e0d69777)
 
 
 ii) Using Weighted Averaging Filter
+
+
+
 ![image](https://github.com/vasanth0908/Implementation-of-filter/assets/122000018/6893b4ec-35a7-4406-8846-995f968c78e2)
 
 
 
 iii) Using Gaussian Filter
+
+
+
 ![image](https://github.com/vasanth0908/Implementation-of-filter/assets/122000018/ac61bedd-9a05-4582-9831-8669c176381d)
 
 
@@ -166,6 +175,8 @@ iv) Using Median Filter
 
 
 i) Using Laplacian Kernal
+
+
 ![image](https://github.com/vasanth0908/Implementation-of-filter/assets/122000018/61013cad-b027-420d-8e3e-19373936b7eb)
 
 
